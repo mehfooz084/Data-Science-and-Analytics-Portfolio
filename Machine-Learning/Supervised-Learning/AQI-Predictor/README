@@ -1,1 +1,29 @@
+# 🌍 AQI Predictor
 
+A Machine Learning-powered web application that predicts Air Quality Index (AQI) using pollutant concentrations and provides air quality categories with health recommendations.
+
+## Features
+- AQI Prediction using Random Forest Regression
+- Real-time AQI Calculation
+- Health Advisory System
+- Interactive Dashboard
+- Flask Backend Integration
+
+## Tech Stack
+- Python
+- Flask
+- Scikit-Learn
+- Pandas
+- NumPy
+- HTML
+- CSS
+- JavaScript
+
+## Model Performance
+- R² Score: 0.885
+- MAE: 22.05
+- RMSE: 43.67
+
+## Links
+- **Live Demo:** [https://aqi-predictor-20g0.onrender.com/]
+- **Source Code:** https://github.com/mehfooz084/AQI_Predictor
