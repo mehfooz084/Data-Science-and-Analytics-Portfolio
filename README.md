@@ -2,7 +2,6 @@
 
 Welcome to my portfolio repository showcasing projects in:
 
-- SQL
 - Power BI
 - Data Analytics
 - Machine Learning
@@ -13,9 +12,9 @@ Welcome to my portfolio repository showcasing projects in:
 - Global Train Accident Analysis Dashboard
 - YouTube Insights Dashboard
 
-## SQL Projects
+## Machine learning Projects
 
-- Air Quality Analysis Across Indian States (Coming Soon)
+- AQI_Predictor
 
 ## About Me
 
